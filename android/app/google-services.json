@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119157806118",
+    "project_id": "clearapp-a1d0e",
+    "storage_bucket": "clearapp-a1d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119157806118:android:e68c004f46d52e025f82e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.finalversion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawyIaRyCyfeCfrwss-hHabGcdWF7AdII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
